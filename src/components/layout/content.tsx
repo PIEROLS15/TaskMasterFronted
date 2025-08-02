@@ -11,7 +11,7 @@ const Content = () => {
                             TaskMaster
                         </h1>
                         <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                            Organiza tus tareas de manera eficiente y mantén el control de tus proyectos.
+                            Organiza tus tareas de manera eficiente y mantén el control de tus proyectos por manuel
                         </p>
                     </div>
                     <div className="space-x-4">
